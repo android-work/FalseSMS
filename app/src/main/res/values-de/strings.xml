@@ -1,0 +1,51 @@
+<resources>
+    <string name="set_contact_title">Kontakt einstellen</string>
+    <string name="contact_number_eidt">Kontakt Nummer</string>
+    <string name="contact_name_edit">Kontaktname</string>
+    <string name="save">SPAREN</string>
+    <string name="str1">Herzlich willkommen!</string>
+    <string name="str2">Erstellen Sie eine Unterhaltung, indem Sie unten Ihre Nachrichten eingeben.</string>
+    <string name="str3">Streichen Sie nach links / rechts, um Themen zu ändern.</string>
+    <string name="str4">Streichen Sie nach oben, um weitere Optionen anzuzeigen</string>
+    <string name="str5">Teile diese Unterhaltung mit deinen Freunden, indem du einen Screenshot machst :)</string>
+    <string name="pm">PM</string>
+    <string name="am">AM</string>
+    <string name="input_hint">Text Message</string>
+    <string name="sms">SMS</string>
+    <string name="send">SENDEN</string>
+    <string name="receiver">EMPFÄNGER</string>
+    <string name="sms_toast">Die Eingabe darf nicht leer sein</string>
+    <string name="seting">die Einstellungen</string>
+    <string name="theme">Themen</string>
+    <string-array name="weeks">
+        <item>Sonne</item>
+        <item>meine</item>
+        <item>Ihre</item>
+        <item>Heiraten</item>
+        <item>Do</item>
+        <item>kostenlos</item>
+        <item>Sat</item>
+
+    </string-array>
+
+    <string-array name="month">
+        <item>Jan</item><item>Februar</item>
+        <item>Meer</item><item>Apr</item>
+        <item>Kann</item><item>Jun</item>
+        <item>Jul</item><item>Aug.</item>
+        <item>sieben</item><item>Okt.</item>
+        <item>Nov.</item><item>Dez.</item>
+    </string-array>
+
+    <string name="app_evaluation">Bewerten Sie uns</string>
+    <string name="app_feedback">FeedBack</string>
+    <string name="remove">Löschen</string>
+    <string name="clear_all">Alle Nachrichten löschen</string>
+    <string name="contact_name">Kontaktname</string>
+    <string name="contact_number">Kontakt Nummer</string>
+    <string name="splash_title">Gefälschte SMS</string>
+    <string name="continue_tv">Fortsetzen</string>
+    <string name="no_message">Keine Nachricht</string>
+    <string name="no_message_dis">Geben Sie Ihre erste Nachricht unten ein oder streichen Sie nach links / rechts, um das Thema zu ändern</string>
+
+</resources>

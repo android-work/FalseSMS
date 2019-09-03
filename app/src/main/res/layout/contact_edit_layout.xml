@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:background="@color/actionbar_bg">
+        <ImageView
+            android:padding="15dp"
+            android:id="@+id/set_contact_back"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/ic_left"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/set_contact_title"
+            android:textSize="20sp"
+            android:textColor="#000"
+            android:textStyle="bold"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="20dp"
+            android:layout_toRightOf="@+id/set_contact_back"
+            android:layout_marginLeft="50dp"/>
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:orientation="vertical"
+        android:background="@drawable/actionbar_bg">
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_marginTop="73dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <com.fake.sms.prank.view.CircleImageView
+            android:id="@+id/contact_head"
+            android:layout_centerHorizontal="true"
+            android:layout_width="120dp"
+            android:layout_height="120dp"/>
+
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:id="@+id/contact_name_ll"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="32dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/contact_name_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/contact_name"
+            android:textColor="#397aff"
+            android:textSize="12sp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="30dp"/>
+        <EditText
+            android:layout_marginLeft="15dp"
+            android:id="@+id/edit_contact_name"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:hint="@string/contact_name_edit"
+            android:text="John Doe"
+            android:paddingLeft="15dp"
+            android:textSize="18sp"
+            android:textColor="#353535"
+            android:textColorHint="@color/hintColor"
+            android:background="@drawable/edit_select_bg"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/contact_number_ll"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="25dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:visibility="gone"
+            android:id="@+id/contact_number_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/contact_number"
+            android:textColor="#397aff"
+            android:textSize="12sp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="30dp"/>
+
+        <EditText
+            android:layout_marginLeft="15dp"
+            android:maxLength="20"
+            android:inputType="number"
+            android:id="@+id/edit_contact_number"
+            android:hint="@string/contact_number_eidt"
+            android:textColorHint="@color/hintColor"
+            android:paddingLeft="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:textSize="18sp"
+            android:textColor="#353535"
+            android:background="@drawable/edit_normal_bg"/>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:id="@+id/contact_save"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="40dp"
+            android:textColor="#fff"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:background="@drawable/save_bg"
+            android:layout_width="330dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:text="@string/save"/>
+    </RelativeLayout>
+
+</LinearLayout>

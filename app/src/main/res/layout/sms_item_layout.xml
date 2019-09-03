@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:id="@+id/sms_rl"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <com.fake.sms.prank.view.CircleImageView
+            android:id="@+id/item_sms_head"
+            android:layout_marginLeft="15dp"
+            android:layout_width="40dp"
+            android:layout_height="40dp" />
+
+        <TextView
+            android:layout_marginTop="40dp"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/item_sms_head"
+            android:layout_gravity="right"
+            android:padding="15dp"
+            android:background="@drawable/item_receiver_sms_bg"
+            android:layout_width="wrap_content"
+            android:maxWidth="250dp"
+            android:minWidth="80dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/item_sms_left_tv"
+            android:text="@string/str2"
+            android:textSize="16sp"
+            android:textColor="#000"
+            android:layout_marginLeft="10dp"/>
+    </RelativeLayout>
+
+    <TextView
+        android:gravity="right"
+        android:layout_marginRight="15dp"
+        android:layout_alignParentRight="true"
+        android:padding="15dp"
+        android:background="@drawable/item_send_sms_bg1"
+        android:layout_width="wrap_content"
+        android:maxWidth="250dp"
+        android:minWidth="80dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/item_sms_right_tv"
+        android:text="@string/str3"
+        android:textSize="16sp"
+        android:textColor="@color/sendTvColor1"
+        android:layout_marginLeft="15dp"/>
+
+</RelativeLayout>

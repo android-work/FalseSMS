@@ -1,0 +1,51 @@
+<resources>
+    <string name="set_contact_title">Установить контакт</string>
+    <string name="contact_number_eidt">Контактный номер</string>
+    <string name="contact_name_edit">Контактное лицо</string>
+    <string name="save">СПАСТИ</string>
+    <string name="str1">Добро пожаловать!</string>
+    <string name="str2">Создайте беседу, отправив свои сообщения ниже.</string>
+    <string name="str3">Проведите пальцем влево / вправо, чтобы изменить темы.</string>
+    <string name="str4">Проведите пальцем вверх для большего количества вариантов</string>
+    <string name="str5">Поделитесь этим разговором с друзьями, сделав скриншот :)</string>
+    <string name="pm">ВЕЧЕРА</string>
+    <string name="am">AM</string>
+    <string name="input_hint">Текстовое сообщение</string>
+    <string name="sms">SMS</string>
+    <string name="send">ОТПРАВИТЬ</string>
+    <string name="receiver">ПОЛУЧАТЕЛЬ</string>
+    <string name="sms_toast">Ввод не может быть пустым</string>
+    <string name="seting">настройки</string>
+    <string name="theme">Темы</string>
+    <string-array name="weeks">
+        <item>солнце</item>
+        <item>мой</item>
+        <item>ваш</item>
+        <item>Мы бы</item>
+        <item>коллекция</item>
+        <item>бесплатно</item>
+        <item>Суббота</item>
+
+    </string-array>
+
+    <string-array name="month">
+        <item>январь</item><item>февраль</item>
+        <item>море</item><item>апрель</item>
+        <item>май</item><item>июнь</item>
+        <item>июль</item><item>август</item>
+        <item>семь</item><item>октябрь</item>
+        <item>ноябрь</item><item>декабрь</item>
+    </string-array>
+
+    <string name="app_evaluation">Оцените нас</string>
+    <string name="app_feedback">Обратная связь</string>
+    <string name="remove">Удалить</string>
+    <string name="clear_all">Очистить все сообщения</string>
+    <string name="contact_name">Контактное лицо</string>
+    <string name="contact_number">Контактный номер</string>
+    <string name="splash_title">Поддельное текстовое сообщение</string>
+    <string name="continue_tv">Продолжить</string>
+    <string name="no_message">Нет сообщений</string>
+    <string name="no_message_dis">Введите свое первое сообщение ниже или проведите пальцем влево / вправо, чтобы сменить тему</string>
+
+</resources>

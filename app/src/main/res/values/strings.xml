@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name" translatable="false">Fake SMS Prank</string>
+    <string name="set_contact_title">Set Contact</string>
+    <string name="contact_number_eidt">Contact Number</string>
+    <string name="contact_name_edit">Contact Name</string>
+    <string name="save">SAVE</string>
+    <string name="str1">Welcome!</string>
+    <string name="str2">Create a conversation by trping your messages below.</string>
+    <string name="str3">Swipe Left/Right to change themes.</string>
+    <string name="str4">Swipe up for more options</string>
+    <string name="str5">Share this conversation with your friends by taking a screenshot :)</string>
+    <string name="pm">PM</string>
+    <string name="am">AM</string>
+    <string name="input_hint">Text Message</string>
+    <string name="sms">SMS</string>
+    <string name="send">SEND</string>
+    <string name="receiver">RECEIVER</string>
+    <string name="sms_toast">Input cannot be empty</string>
+    <string name="seting">Settings</string>
+    <string name="theme">Themes</string>
+    <string-array name="weeks">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+
+    </string-array>
+
+    <string-array name="month">
+        <item>Jan</item><item>Feb</item>
+        <item>Mar</item><item>Apr</item>
+        <item>May</item><item>Jun</item>
+        <item>Jul</item><item>Aug</item>
+        <item>Sept</item><item>Oct</item>
+        <item>Nov</item><item>Dec</item>
+    </string-array>
+
+    <string name="app_evaluation">Rate us</string>
+    <string name="app_feedback">FeedBack</string>
+    <string name="remove">Remove</string>
+    <string name="clear_all">Clear All Messages</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="splash_title">Fake Text Message</string>
+    <string name="continue_tv">Continue</string>
+    <string name="no_message">No Message</string>
+    <string name="no_message_dis">Type your first message below or swipe left/right to change theme</string>
+
+</resources>

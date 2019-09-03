@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="actionbar_bg">#FDFDFE</color>
+    <color name="hintColor">#848484</color>
+    <color name="saveColor">#397aff</color>
+    <color name="editNormal">#b9c5ca</color>
+    <color name="receiverColor">#E5E5E5</color>
+    <color name="sendColor1">#d2e4fc</color>
+    <color name="sendTvColor1">#1951A6</color>
+    <color name="inputColor1">#FDFDFE</color>
+
+    <color name="sendColor2">#397aff</color>
+    <color name="sendTvColor2">#fff</color>
+
+    <color name="sendColor3">#075e55</color>
+    <color name="sendTvColor3">#000</color>
+
+    <color name="sendColor4">#fdeec7</color>
+    <color name="sendTvColor4">#fff</color>
+
+    <color name="sendColor5">#27c83e</color>
+    <color name="sendTvColor5">#fff</color>
+</resources>

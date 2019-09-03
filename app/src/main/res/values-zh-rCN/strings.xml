@@ -1,0 +1,51 @@
+<resources>
+    <string name="set_contact_title">设置联系人</string>
+    <string name="contact_number_eidt">联系电话</string>
+    <string name="contact_name_edit">联系人姓名</string>
+    <string name="save">保存</string>
+    <string name="str1">欢迎！</string>
+    <string name="str2">通过在下面传递您的消息来创建对话。</string>
+    <string name="str3">向左/向右滑动可更改主题。</string>
+    <string name="str4">向上滑动以获取更多选项</string>
+    <string name="str5">通过截图与您的朋友分享此对话:)</string>
+    <string name="pm">下午</string>
+    <string name="am">上午</string>
+    <string name="input_hint">短信</string>
+    <string name="sms">短信</string>
+    <string name="send">发送</string>
+    <string name="receiver">接收</string>
+    <string name="sms_toast">输入不能为空</string>
+    <string name="seting">设置</string>
+    <string name="theme">主题</string>
+    <string-array name="weeks">
+        <item>星期日</item>
+        <item>星期一</item>
+        <item>星期二</item>
+        <item>星期三</item>
+        <item>星期四</item>
+        <item>星期五</item>
+        <item>星期六</item>
+
+    </string-array>
+
+    <string-array name="month">
+        <item>一月</item><item>二月</item>
+        <item>三月</item><item>四月</item>
+        <item>五月</item><item>六月</item>
+        <item>七月</item><item>八月</item>
+        <item>九月</item><item>十月</item>
+        <item>十一月</item><item>十二月</item>
+    </string-array>
+
+    <string name="app_evaluation">评价我们</string>
+    <string name="app_feedback">反馈</string>
+    <string name="remove">删除</string>
+    <string name="clear_all">清除所有消息</string>
+    <string name="contact_name">联系人姓名</string>
+    <string name="contact_number">联系电话</string>
+    <string name="splash_title">假短信</string>
+    <string name="continue_tv">继续</string>
+    <string name="no_message">没有消息</string>
+    <string name="no_message_dis">在下面输入您的第一条消息，或者向左/向右滑动以更改主题</string>
+
+</resources>

@@ -1,0 +1,51 @@
+<resources>
+    <string name="set_contact_title">Définir le contact</string>
+    <string name="contact_number_eidt">Numéro de contact</string>
+    <string name="contact_name_edit">Nom du contact</string>
+    <string name="save">ENREGISTRER</string>
+    <string name="str1">Bienvenue!</string>
+    <string name="str2">Créez une conversation en trping vos messages ci-dessous.</string>
+    <string name="str3">Balayez vers la gauche / droite pour changer de thème.</string>
+    <string name="str4">Glissez vers le haut pour plus d\'options</string>
+    <string name="str5">Partagez cette conversation avec vos amis en prenant une capture d\'écran :)</string>
+    <string name="pm">PM</string>
+    <string name="am">UN M</string>
+    <string name="input_hint">Text Message</string>
+    <string name="sms">SMS</string>
+    <string name="send">ENVOYER</string>
+    <string name="receiver">RECEVEUR</string>
+    <string name="sms_toast">L\'entrée ne peut pas être vide</string>
+    <string name="seting">Réglages</string>
+    <string name="theme">Des thèmes</string>
+    <string-array name="weeks">
+        <item>Soleil</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>mer</item>
+        <item>Jeu</item>
+        <item>gratuit</item>
+        <item>Sam</item>
+
+    </string-array>
+
+    <string-array name="month">
+        <item>Jan</item><item>fév</item>
+        <item>La mer</item><item>avr</item>
+        <item>Mai</item><item>Juin</item>
+        <item>juil</item><item>Août</item>
+        <item>Sept</item><item>Oct</item>
+        <item>nov</item><item>déc</item>
+    </string-array>
+
+    <string name="app_evaluation">Évaluez nous</string>
+    <string name="app_feedback">Retour d\'information</string>
+    <string name="remove">Retirer</string>
+    <string name="clear_all">Effacer tous les messages</string>
+    <string name="contact_name">Nom du contact</string>
+    <string name="contact_number">Numéro de contact</string>
+    <string name="splash_title">Faux message texte</string>
+    <string name="continue_tv">Continue</string>
+    <string name="no_message">No Message</string>
+    <string name="no_message_dis">Tapez votre premier message ci-dessous ou balayez gauche / droite pour changer de thème.</string>
+
+</resources>

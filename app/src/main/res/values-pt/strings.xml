@@ -1,0 +1,51 @@
+<resources>
+    <string name="set_contact_title">Definir contato</string>
+    <string name="contact_number_eidt">Número de contato</string>
+    <string name="contact_name_edit">Nome de contato</string>
+    <string name="save">SALVE </string>
+    <string name="str1">Bem vinda!</string>
+    <string name="str2">Crie uma conversa, clicando nas suas mensagens abaixo.</string>
+    <string name="str3">Deslize para a esquerda / direita para alterar os temas.</string>
+    <string name="str4">Deslize para cima para obter mais opções</string>
+    <string name="str5">Compartilhe essa conversa com seus amigos fazendo uma captura de tela :)</string>
+    <string name="pm">PM</string>
+    <string name="am">SOU</string>
+    <string name="input_hint">Mensagem de texto</string>
+    <string name="sms">SMS</string>
+    <string name="send">MANDAR</string>
+    <string name="receiver">RECEPTOR</string>
+    <string name="sms_toast">A entrada não pode estar vazia</string>
+    <string name="seting">Definições</string>
+    <string name="theme">Temas</string>
+    <string-array name="weeks">
+        <item>Dom</item>
+        <item>meu</item>
+        <item>seu</item>
+        <item>qua</item>
+        <item>Qui</item>
+        <item>livre</item>
+        <item>Sentou</item>
+
+    </string-array>
+
+    <string-array name="month">
+        <item>Jan</item><item>Fev</item>
+        <item>Mar</item><item>Abr</item>
+        <item>Maio</item><item>Jun</item>
+        <item>Jul</item><item>Agosto</item>
+        <item>sete</item><item>Out</item>
+        <item>Nov</item><item>Dez</item>
+    </string-array>
+
+    <string name="app_evaluation">Nos avalie</string>
+    <string name="app_feedback">Comentários</string>
+    <string name="remove">Remover</string>
+    <string name="clear_all">Limpar todas as mensagens</string>
+    <string name="contact_name">Nome de contato</string>
+    <string name="contact_number">Número de contato</string>
+    <string name="splash_title">Mensagem de texto falsa</string>
+    <string name="continue_tv">Continuar</string>
+    <string name="no_message">No Message</string>
+    <string name="no_message_dis">Digite sua primeira mensagem abaixo ou deslize para a esquerda / direita para alterar o tema</string>
+
+</resources>

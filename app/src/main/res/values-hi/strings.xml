@@ -1,0 +1,51 @@
+<resources>
+    <string name="set_contact_title">संपर्क सेट करें</string>
+    <string name="contact_number_eidt">संपर्क संख्या</string>
+    <string name="contact_name_edit">संपर्क नाम</string>
+    <string name="save">बचाना</string>
+    <string name="str1">स्वागत हे!</string>
+    <string name="str2">अपने संदेशों को नीचे ट्रैप करके वार्तालाप बनाएँ।</string>
+    <string name="str3">विषय बदलने के लिए बाएँ / दाएँ स्वाइप करें।</string>
+    <string name="str4">अधिक विकल्पों के लिए ऊपर स्वाइप करें</string>
+    <string name="str5">स्क्रीनशॉट लेकर अपने दोस्तों के साथ इस बातचीत को साझा करें :)</string>
+    <string name="pm">PM</string>
+    <string name="am">AM</string>
+    <string name="input_hint">पाठ संदेश</string>
+    <string name="sms">एसएमएस</string>
+    <string name="send">भेजें</string>
+    <string name="receiver">RECEIVER</string>
+    <string name="sms_toast">इनपुट खाली नहीं हो सकता</string>
+    <string name="seting">सेटिंग्स</string>
+    <string name="theme">विषय-वस्तु</string>
+    <string-array name="weeks">
+        <item>रवि</item>
+        <item>मेरी</item>
+        <item>आपके</item>
+        <item>मेल कराना</item>
+        <item>संग्रह</item>
+        <item>मुक्त</item>
+        <item>Sat</item>
+
+    </string-array>
+
+    <string-array name="month">
+        <item>Jan</item><item>फ़रवरी</item>
+        <item>समुद्र</item><item>अप्रैल</item>
+        <item>मई</item><item>जून</item>
+        <item>जुलाई</item><item>अगस्त</item>
+        <item>सात</item><item>अक्टूबर</item>
+        <item>नवम्बर</item><item>दिसम्बर</item>
+    </string-array>
+
+    <string name="app_evaluation">हमें रेटिंग दें</string>
+    <string name="app_feedback">प्रतिक्रिया</string>
+    <string name="remove">हटाना</string>
+    <string name="clear_all">सभी संदेश साफ़ करें</string>
+    <string name="contact_name">संपर्क नाम</string>
+    <string name="contact_number">संपर्क संख्या</string>
+    <string name="splash_title">नकली संदेश</string>
+    <string name="continue_tv">जारी रहना</string>
+    <string name="no_message">कोई संदेश नहीं</string>
+    <string name="no_message_dis">नीचे अपना पहला संदेश टाइप करें या विषय बदलने के लिए बाएं / दाएं स्वाइप करें</string>
+
+</resources>
